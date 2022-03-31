@@ -2,11 +2,13 @@
 
 ## 🚀 About Me
 
-🎓 I am Vanessa Eberhard, a **Front End Web Developer** (specializing in **React Applications**) at Swisscom. I will complete my apprenticeship as a **computer scientist** in the summer of 2022.
+🎓 I am Vanessa Eberhard, a **Front End Web Developer** (specializing in **React Applications**) at Swisscom. I will complete my apprenticeship as an **application developer** in the summer of 2022.
 
 ✈️ Even outside the technical world, I am always interested in developing new skills. In my free time I like to **travel** and **meet new people**. This complements well with my interest in **improving my language skills**.
 
 📚 I also love reading books on **personal development** & **psychology**.
+
+🎮 I love participating at **Hackathon** and collect tech stickers.
 
 <br/>
 
