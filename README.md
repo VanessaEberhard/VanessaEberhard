@@ -38,7 +38,7 @@
 <br/>
 
 ## 🔗 Links
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vanessa-eberhard/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vanessaeberhard/)
 
 <!--
 **VanessaEberhard/VanessaEberhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
