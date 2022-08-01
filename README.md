@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Vanessa Eberhard, a **Front End Web Developer** (specializing in **React Applications**) at Swisscom. In September 2022 I will start with my Bachelor of scienece in IT.
+🎓 I am Vanessa Eberhard, a **Front End Web Developer** (specializing in **React Applications**) at Swisscom. In September 2022 I will start with my Bachelor of Science in IT.
 
 ✈️ Even outside the technical world, I am always interested in developing new skills. In my free time I like to **travel** and **meet new people**. This complements well with my interest in **improving my language skills**.
 
